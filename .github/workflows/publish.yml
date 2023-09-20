@@ -36,4 +36,5 @@ jobs:
             cd ${{ secrets.REPO_PATH}}
             git pull
             cd ${{ secrets.QUARTZ_PATH}}
+            ${{ secrets.NVM }}
             ${{ secrets.NPX }} quartz build -o ${{ secrets.OUT_PATH}}
