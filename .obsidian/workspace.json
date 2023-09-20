@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cars/First generation - NA.md",
+                "file": "cars/Second generation - NB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cars/First generation - NA.md",
+                "file": "cars/Second generation - NB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cars/First generation - NA.md",
+                "file": "cars/Second generation - NB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cars/First generation - NA.md"
+                "file": "cars/Second generation - NB.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "7eb4f0f8ce933512",
   "lastOpenFiles": [
-    "cars/Second generation - NB.md",
     "cars/First generation - NA.md",
+    "cars/Second generation - NB.md",
     "generations.md",
+    "cars/Third generation - NC.md",
+    "index.md",
     "cars/Fourth generation - ND.md",
     "attachments/Pasted image 20230920230809.png",
-    "cars/Third generation - NC.md",
     "attachments/Pasted image 20230920230755.png",
     "attachments/Pasted image 20230920230740.png",
     "attachments/Pasted image 20230920230725.png",
-    "index.md",
     "attachments/Pasted image 20230920230526.png",
     "attachments",
     "cars",
