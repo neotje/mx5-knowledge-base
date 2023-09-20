@@ -1,6 +1,0 @@
----
-aliases:
-  - ND
-tags:
-  - ND
----
