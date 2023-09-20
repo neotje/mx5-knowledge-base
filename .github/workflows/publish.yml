@@ -36,4 +36,4 @@ jobs:
             cd ${{ secrets.REPO_PATH}}
             git pull
             cd ${{ secrets.QUARTZ_PATH}}
-            npx quartz build -o ${{ secrets.OUT_PATH}}
+            ${{ secrets.NPX }} quartz build -o ${{ secrets.OUT_PATH}}
