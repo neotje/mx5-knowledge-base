@@ -8,7 +8,7 @@ tags:
 ![[20230928_220824.jpg]]
 # Summary
 
-- This project is a socket for a ball and socket joint style accesory which can be fitted in a dashboard air vent hole of a Mazda MX-5 NA or NB.
+- This project is a socket for a ball and socket joint style accessory which can be fitted in a dashboard air vent hole of a Mazda MX-5 [[First generation - NA|NA]] or [[Second generation - NB|NB]].
 - Compatible with [https://www.thingiverse.com/thing:4750441](https://www.thingiverse.com/thing:4750441)
 - Based on [https://www.thingiverse.com/thing:4739696](https://www.thingiverse.com/thing:4739696)
 - Requires you to remove vent nozzle from dashboard to install. Removal video using 2 credit cards: [https://youtu.be/ZZmxmB5Wq4w](https://youtu.be/ZZmxmB5Wq4w)
