@@ -69,5 +69,5 @@ Design made in onshape:
 
 
 # Files
-- ![[Mazda MX-5 - Vent ball socket.stl]]
-- 3mf Bambu studio project with all the parts. With correct tolerances for PC filament![[Mazda MX-5 - Vent phone holder.3mf]]
+- ![[Mazda_MX-5_Vent_ball_socket.stl]]
+- 3mf Bambu studio project with all the parts. With correct tolerances for PC filament![[Mazda_MX-5_bambustudio.3mf]]
