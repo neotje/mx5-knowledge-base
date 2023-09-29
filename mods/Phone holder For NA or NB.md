@@ -4,6 +4,8 @@ tags:
   - NB
 ---
 [Thingiverse](https://www.thingiverse.com/thing:6241198)
+
+![[20230928_220824.jpg]]
 # Summary
 
 - This project is a socket for a ball and socket joint style accesory which can be fitted in a dashboard air vent hole of a Mazda MX-5 NA or NB.
@@ -67,4 +69,5 @@ Design made in onshape:
 
 
 # Files
-![[Mazda MX-5 - Vent ball socket.stl]]![[Mazda MX-5 - Vent phone holder.3mf]]
+- ![[Mazda MX-5 - Vent ball socket.stl]]
+- ![[Mazda MX-5 - Vent phone holder.3mf]]
