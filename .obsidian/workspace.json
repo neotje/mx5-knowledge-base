@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md",
+                "file": "tutorials/Leaking soft- or hardtop seals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md",
+                "file": "tutorials/Leaking soft- or hardtop seals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md",
+                "file": "tutorials/Leaking soft- or hardtop seals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md"
+                "file": "tutorials/Leaking soft- or hardtop seals.md"
               }
             }
           }
@@ -146,15 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b106b97ab2e79234",
+  "active": "930ae317ee69cf37",
   "lastOpenFiles": [
+    "mods/Phone holder For NA or NB.md",
+    "parts/Double DIN radio (4162) (4163) (4H60) (4H64).md",
+    "tutorials/Leaking soft- or hardtop seals.md",
+    "tutorials",
+    "parts/Untitled",
+    "robots.txt",
+    "robots.txt.crdownload",
     "download",
     "download/Mazda_MX-5_bambustudio.3mf",
     "attachments/20230928_220824.jpg",
     "attachments/Mazda MX-5 - Vent phone holder.3mf",
     "download/Mazda_MX-5_Vent_ball_socket.stl",
-    "parts/Double DIN radio (4162) (4163) (4H60) (4H64).md",
-    "mods/Phone holder For NA or NB.md",
     "mods",
     "attachments/Pasted image 20230924155451.png",
     "attachments/Pasted image 20230924155438.png",
@@ -165,7 +170,6 @@
     "cars/NB/NB - special editions.md",
     "cars/NB/NB - trim levels.md",
     "cars/Second generation - NB.md",
-    "cars/NB",
     "cars/Third generation - NC.md",
     "cars/Fourth generation - ND.md",
     "cars/First generation - NA.md",
@@ -175,8 +179,6 @@
     "attachments/Pasted image 20230920230755.png",
     "attachments/Pasted image 20230920230740.png",
     "attachments/Pasted image 20230920230725.png",
-    "attachments",
-    "cars",
     "README.md",
     "Untitled.canvas"
   ]

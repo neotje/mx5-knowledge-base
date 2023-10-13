@@ -1,3 +1,9 @@
+---
+tags:
+  - NA
+  - NB
+---
+
 ![[Pasted image 20230924154342.png]]
 # Pinouts
 ![[20230924_133011.jpg]]
