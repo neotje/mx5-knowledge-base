@@ -42,5 +42,5 @@ These instructions are intended as general guidelines for modifying an air intak
 
 # Sources
 
-- [https://www.youtube.com/watch?v=rTkNIB7DZWo]()
-- [https://www.youtube.com/watch?v=MedneNaD-2U]()
+- [https://www.youtube.com/watch?v=rTkNIB7DZWo](https://www.youtube.com/watch?v=rTkNIB7DZWo)
+- [https://www.youtube.com/watch?v=MedneNaD-2U](https://www.youtube.com/watch?v=MedneNaD-2U)
