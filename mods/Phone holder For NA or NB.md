@@ -69,5 +69,5 @@ Design made in onshape:
 
 
 # Files
-- ![[Mazda_MX5_Vent_ball_socket.stl]]
-- 3mf Bambu studio project with all the parts. With correct tolerances for PC filament![[Mazda_MX5_bambustudio.3mf]]
+- [[Mazda_MX5_Vent_ball_socket.stl]]
+- 3mf Bambu studio project with all the parts. With correct tolerances for PC filament [[Mazda_MX5_bambustudio.3mf]]
