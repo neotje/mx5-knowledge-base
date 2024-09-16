@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "930ae317ee69cf37",
+            "id": "c1451b95ea8b1dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md",
+                "file": "mods/Cold air intake NB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md",
+                "file": "mods/Cold air intake NB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md",
+                "file": "mods/Cold air intake NB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mods/Phone holder For NA or NB.md"
+                "file": "mods/Cold air intake NB.md"
               }
             }
           }
@@ -146,11 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b106b97ab2e79234",
+  "active": "c1451b95ea8b1dbe",
   "lastOpenFiles": [
-    "mods/OEM Cruise control for NB Miata.md",
-    "tutorials/Leaking soft- or hardtop seals.md",
+    "index.md",
     "mods/Phone holder For NA or NB.md",
+    "generations.md",
+    "mods/Cold air intake NB.md",
+    "mods/OEM Cruise control for NB Miata.md",
+    "download/Ventilation hose adapter.stl",
+    "attachments/Pasted image 20240916154546.png",
+    "attachments/Pasted image 20231006111752.png",
+    "attachments/2010-12-06_154828_vac.gif",
+    "tutorials/Leaking soft- or hardtop seals.md",
     "parts/Double DIN radio (4162) (4163) (4H60) (4H64).md",
     "tutorials",
     "parts/Untitled",
@@ -167,19 +174,13 @@
     "attachments/Pasted image 20230924154840.png",
     "attachments/20230924_133011.jpg",
     "attachments/Pasted image 20230924154342.png",
-    "parts",
     "cars/NB/NB - special editions.md",
     "cars/NB/NB - trim levels.md",
     "cars/Second generation - NB.md",
     "cars/Third generation - NC.md",
     "cars/Fourth generation - ND.md",
     "cars/First generation - NA.md",
-    "generations.md",
-    "index.md",
     "attachments/Pasted image 20230920230809.png",
-    "attachments/Pasted image 20230920230755.png",
-    "attachments/Pasted image 20230920230740.png",
-    "attachments/Pasted image 20230920230725.png",
     "README.md",
     "Untitled.canvas"
   ]
